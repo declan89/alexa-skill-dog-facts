@@ -1,0 +1,17 @@
+GetNewFactIntent a fact
+GetNewFactIntent a dog fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me a dog fact
+GetNewFactIntent give me a fact
+GetNewFactIntent give me a dog fact
+GetNewFactIntent let me hear a dog fact
+GetNewFactIntent let me hear a fact
+GetNewFactIntent tell me trivia
+GetNewFactIntent tell me dog trivia
+GetNewFactIntent give me trivia
+GetNewFactIntent give me a dog trivia
+GetNewFactIntent give me some information
+GetNewFactIntent give me some information on dogs
+GetNewFactIntent give me some dog information
+GetNewFactIntent tell me something
+GetNewFactIntent give me something
